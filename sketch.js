@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang = "en">
-    
-    <head>
-	<title>Game</title>
-</head>
-
 var gameChar_x;
 var gameChar_y;
 var floorPos_y;
