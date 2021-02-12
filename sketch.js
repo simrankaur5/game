@@ -1,10 +1,10 @@
-/*
+<!DOCTYPE html>
+<html lang = "en">
+    
+    <head>
+	<title>Game</title>
+</head>
 
-The Game Project 7 - Making a complete level II
-
-Week 10
-
-*/
 var gameChar_x;
 var gameChar_y;
 var floorPos_y;
